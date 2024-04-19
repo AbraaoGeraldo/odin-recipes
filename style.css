@@ -1,0 +1,43 @@
+body {
+    background-color: #000c18;
+}
+
+img {
+    width: 100px;
+    height: auto;
+}
+
+.OMundo {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#diamond {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#golden {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.sanduba {
+    color: #f0bb85;
+}
+
+.molho {
+    color: #45273f;
+}
+
+#ocean {
+    color: aliceblue;
+}
+
+#report {
+    color: aliceblue;
+}
+
+#sera {
+    font-weight: bold;
+}
