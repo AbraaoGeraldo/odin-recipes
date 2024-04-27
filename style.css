@@ -1,10 +1,14 @@
 body {
-    background-color: #000c18;
+    background-color: #91e2e2
 }
 
 img {
-    width: 100px;
+    display: block;
+    width: 300px;
     height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid rgb(92, 92, 192);
 }
 
 .OMundo {
@@ -12,9 +16,15 @@ img {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+.link {
+    text-align: center;
+    margin-top: 8px;
+}
+
 #diamond {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 8px;
 }
 
 #golden {
@@ -23,21 +33,62 @@ img {
 }
 
 .sanduba {
-    color: #f0bb85;
+    color: #000000;
 }
 
 .molho {
-    color: #45273f;
+    color: #080808;
 }
 
 #ocean {
     color: aliceblue;
+    text-align: center;
 }
 
 #report {
+    margin-top: 40px;
+    text-align: center;
     color: aliceblue;
+    font-weight: 700;
+ 
 }
 
 #sera {
+    text-align: center;
     font-weight: bold;
+    font-size: medium;
+}
+
+.titulo {
+    display: block;
+    border: 8px;
+}
+
+/* Test */
+
+.oi {
+    margin: 200px;
+    margin-top: 17px;
+    margin-bottom: 10px;
+    border: 13px dashed rgb(92, 92, 192);
+    padding: 20px;
+    background-color: rgb(226, 145, 145);
+}
+
+.ola {
+    margin: 200px;
+    margin-top: 50px;
+    margin-bottom: auto;
+    border: 13px dashed rgb(92, 92, 192);
+    padding: 20px;
+    background-color: rgb(226, 145, 145);
+}
+
+#eai {
+    margin: 200px;
+    margin-top: 50px;
+    margin-bottom: 15px;
+    border: 13px dashed rgb(92, 92, 192);
+    padding: 20px;
+    background-color: rgb(226, 145, 145);
 }
